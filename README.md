@@ -48,7 +48,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 To train and test the KNN model, use the following command:
 
-```bash
 python knn.py -mode train -k 3 -num_epochs 25
 python knn.py -mode test
 
